@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415349028 source:/home/ubuntu/Desktop/Battleship/main.cpp
+	<iostream>
+	<stdlib.h>
+
